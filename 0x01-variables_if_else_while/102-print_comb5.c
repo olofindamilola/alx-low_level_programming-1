@@ -19,10 +19,10 @@ int main(void)
 		j = 48;
 		while (j < 58)
 		{
+			m = j + 1;
 			k = i;
 			while (k < 58)
 			{
-				m = j + 1;
 				while (m < 58)
 				{
 					putchar(i);
