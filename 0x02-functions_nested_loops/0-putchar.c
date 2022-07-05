@@ -1,11 +1,11 @@
 #include "main.h"
 
+
+
 /**
  * main - prints _putchar
- *
- * description: to write a program that prints _putchar
- *
- * Return: (0) Always success
+ * Description: prints _putchar
+ * Return: 0 (Success)
  *
  */
 
