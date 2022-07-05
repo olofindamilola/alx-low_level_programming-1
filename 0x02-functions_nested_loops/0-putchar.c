@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main:  program that prints _putchar
+ * main - prints _putchar
  *
  * description: to write a program that prints _putchar
  *
@@ -17,10 +17,10 @@ int main(void)
 
 	int i = 0;
 	for (i = 0; i < 9; i++)
+
 	{
 		_putchar(text[i]);
-
-	}	
+	}
 	_putchar('\n');
 
 
