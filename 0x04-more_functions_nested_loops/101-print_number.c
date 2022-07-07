@@ -17,7 +17,6 @@ int  power(int base, int exp)
 		num *= base;
 
 	return (num);
-
 }
 
 /**
